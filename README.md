@@ -45,7 +45,7 @@ N/a
 
 ## Deployment
 
-https://git.heroku.com/pacific-retreat-49134.git
+https://pacific-retreat-49134.herokuapp.com/
 
 # Tech Stack
 
