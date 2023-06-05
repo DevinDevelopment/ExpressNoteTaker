@@ -45,7 +45,7 @@ N/a
 
 ## Deployment
 
-https://aqueous-lowlands-43111.herokuapp.com/
+https://git.heroku.com/pacific-retreat-49134.git
 
 # Tech Stack
 
